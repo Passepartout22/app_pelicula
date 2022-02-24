@@ -41,7 +41,7 @@ class MoviePosterImage extends StatelessWidget {
   Widget build(BuildContext context) {
 
     return GestureDetector(
-      onTap: ()=> Navigator.pushNamed(context, 'detalle', arguments: pelicula ),
+      onTap: ()=> Navigator.pushNamed(context, 'Detalle', arguments: pelicula ),
       child: Hero(
         tag: pelicula.uniqueIdBanner,
         child: FadeInImage(

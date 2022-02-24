@@ -28,7 +28,7 @@ class PeliculaDetalle extends StatelessWidget {
                 _descripcion( pelicula ),
                 _descripcion( pelicula ),
                 _descripcion( pelicula ),
-                _descripcion( pelicula ),
+               _descripcion( pelicula ),
                 _crearCasting( pelicula )
               ]
             ),
