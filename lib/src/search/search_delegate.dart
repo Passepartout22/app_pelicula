@@ -24,7 +24,7 @@ class DataSearch extends SearchDelegate {
 
   final peliculasRecientes = [
     'Spiderman',
-    'Capitan America'
+    'Capitan america'
   ];
   
 
